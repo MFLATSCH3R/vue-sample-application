@@ -1,0 +1,23 @@
+{
+  "name": "vue-sample-application",
+  "version": "1.0.0",
+  "description": "a sample vue application",
+  "main": "index.js",
+  "scripts": {
+    "test": "run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MFLATSCH3R/vue-sample-application.git"
+  },
+  "keywords": [
+    "vue",
+    "node"
+  ],
+  "author": "MFLATSCH3R",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MFLATSCH3R/vue-sample-application/issues"
+  },
+  "homepage": "https://github.com/MFLATSCH3R/vue-sample-application#readme"
+}
