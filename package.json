@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/MFLATSCH3R/vue-sample-application/issues"
   },
-  "homepage": "https://github.com/MFLATSCH3R/vue-sample-application#readme"
+  "homepage": "https://github.com/MFLATSCH3R/vue-sample-application#readme",
+  "dependencies": {
+    "vue-cli": "^2.9.6"
+  }
 }
