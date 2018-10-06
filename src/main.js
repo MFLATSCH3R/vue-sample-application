@@ -18,7 +18,11 @@ import {
   transitions
 } from 'vuetify'
 
-Vue.config.productionTip = false
+import '../node_modules/vuetify/src/stylus/app.styl'
+
+import 'vuetify/dist/vuetify.min.css'
+import 'material-design-icons-iconfont/dist/material-design-icons.css'
+import 'dayspan-vuetify/dist/lib/dayspan-vuetify.min.css'
 
 Vue.use(Vuetify, {
   components: {
@@ -44,6 +48,8 @@ Vue.use(Vuetify, {
     warning: '#FFC107'
   }
 })
+
+Vue.config.productionTip = false
 
 /* eslint-disable no-new */
 new Vue({
