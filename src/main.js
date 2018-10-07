@@ -21,8 +21,6 @@ import {
 import '../node_modules/vuetify/src/stylus/app.styl'
 
 import 'vuetify/dist/vuetify.min.css'
-import 'material-design-icons-iconfont/dist/material-design-icons.css'
-import 'dayspan-vuetify/dist/lib/dayspan-vuetify.min.css'
 
 Vue.use(Vuetify, {
   components: {

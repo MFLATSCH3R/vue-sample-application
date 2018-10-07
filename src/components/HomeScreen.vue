@@ -91,6 +91,66 @@ export default {
           prop1: 'Prop 1',
           prop2: 'Prop 2',
           prop3: 'Prop 3'
+        },        
+        {
+          name: 'Item 8',
+          prop1: 'Prop 1',
+          prop2: 'Prop 2',
+          prop3: 'Prop 3'
+        },
+        {
+          name: 'Item 9',
+          prop1: 'Prop 1',
+          prop2: 'Prop 2',
+          prop3: 'Prop 3'
+        },
+        {
+          name: 'Item 10',
+          prop1: 'Prop 1',
+          prop2: 'Prop 2',
+          prop3: 'Prop 3'
+        },
+        {
+          name: 'Item 11',
+          prop1: 'Prop 1',
+          prop2: 'Prop 2',
+          prop3: 'Prop 3'
+        },
+        {
+          name: 'Item 12',
+          prop1: 'Prop 1',
+          prop2: 'Prop 2',
+          prop3: 'Prop 3'
+        },
+        {
+          name: 'Item 13',
+          prop1: 'Prop 1',
+          prop2: 'Prop 2',
+          prop3: 'Prop 3'
+        },
+        {
+          name: 'Item 14',
+          prop1: 'Prop 1',
+          prop2: 'Prop 2',
+          prop3: 'Prop 3'
+        },
+        {
+          name: 'Item 15',
+          prop1: 'Prop 1',
+          prop2: 'Prop 2',
+          prop3: 'Prop 3'
+        },
+        {
+          name: 'Item 16',
+          prop1: 'Prop 1',
+          prop2: 'Prop 2',
+          prop3: 'Prop 3'
+        },
+        {
+          name: 'Item 17',
+          prop1: 'Prop 1',
+          prop2: 'Prop 2',
+          prop3: 'Prop 3'
         }
       ]
     }
